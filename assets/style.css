@@ -1,0 +1,50 @@
+*{
+    background-color: bisque;
+    margin:30px;
+    padding: 0px;
+    box-sizing: border-box;
+    color: saddlebrown;
+}
+.hw{
+    width: 1000px;
+    float: none;
+    
+    
+}
+.hw_left{
+    width: 450px;
+    float: left;
+   
+}
+.Hw_right{
+    width: 550px;
+    float: right;
+    margin-top: -320px;
+}
+h1{
+    font-size: 36px;
+    text-align: center;
+}
+.Hw_right .photo img{
+    width: 200px;
+    height: 200px;
+    border: 3px solid sienna;
+    border-radius: 30px;
+}
+
+
+.hw_bottom {
+    clear: both;
+    text-align: center;
+    font-family: sans-serif;
+}
+.hw_bottom h1{
+    background-color: sandybrown;
+    
+}
+.hw_bottom .gallery{
+    float: left;
+}
+.hw_bottom .gallery2{
+    float: left;
+}
